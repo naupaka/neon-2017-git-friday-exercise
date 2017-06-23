@@ -2,3 +2,4 @@
 # Naupaka Zimmerman naupaka@gmail.com
 # June 23, 2017
 
+import gdal
