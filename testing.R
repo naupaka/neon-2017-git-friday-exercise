@@ -1,1 +1,1 @@
-plot(5, 3)
+summary(iris)
