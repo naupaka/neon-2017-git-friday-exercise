@@ -4,8 +4,7 @@
 
 We are learning to work with git branches.
 
-Here's another line.
-
-Here's another.
+1. Here's another line.
+2. Here's another.
 
 And one more.
