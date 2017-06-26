@@ -1,1 +1,1 @@
-summary(iris)
+a <- 6
